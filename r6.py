@@ -1,0 +1,1 @@
+#se voce usar monte de if por exemplo se vai cria 50 if se a primeira condição for verdadeira a maquina ira ver se as outras 49 estão certas o elif faz com que iss não aconteça pq o elif ele cria uma outra codinção dentro do if sem precisa a maquina fica pergutando sobre todos os ifs o elif serve para que não aconteça esse tipo de problema
